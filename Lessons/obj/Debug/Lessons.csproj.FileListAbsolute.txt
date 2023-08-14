@@ -1,0 +1,7 @@
+E:\VisualStudioCommunity\ConsoleApp\Lessons\Lessons\bin\Debug\Lessons.exe.config
+E:\VisualStudioCommunity\ConsoleApp\Lessons\Lessons\bin\Debug\Lessons.exe
+E:\VisualStudioCommunity\ConsoleApp\Lessons\Lessons\bin\Debug\Lessons.pdb
+E:\VisualStudioCommunity\ConsoleApp\Lessons\Lessons\obj\Debug\Lessons.csprojAssemblyReference.cache
+E:\VisualStudioCommunity\ConsoleApp\Lessons\Lessons\obj\Debug\Lessons.csproj.CoreCompileInputs.cache
+E:\VisualStudioCommunity\ConsoleApp\Lessons\Lessons\obj\Debug\Lessons.exe
+E:\VisualStudioCommunity\ConsoleApp\Lessons\Lessons\obj\Debug\Lessons.pdb
